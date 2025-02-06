@@ -9,6 +9,9 @@
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: **I enjoy training AI models and making them generate memes! 😆**
 
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=madeelurrehman&color=blue&style=flat)
+
 ## 🛠 Expertise In  
 
 ### 🔹 **Machine Learning & AI**  
@@ -36,4 +39,5 @@
 </table>
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madeelurrehman&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madeelurrehman&theme=light) 
+
