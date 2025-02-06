@@ -23,11 +23,17 @@
 ### 🔹 **Model Deployment**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madeelurrehman&show_icons=true&theme=light)
+## 📊 GitHub Stats  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=madeelurrehman&show_icons=true&theme=light" width="600"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeelurrehman&layout=compact&theme=light" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madeelurrehman&theme=light)
-
-## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madeelurrehman&layout=compact&theme=light)
